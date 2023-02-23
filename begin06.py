@@ -7,3 +7,8 @@
 # Assign the result of that expression 'https://github.com/codeschool-2022A/variables_and_types#begin06' to variable 'k';
 
 # # Print the variable 'k'.
+a=24
+b=3
+c=5
+k=a-b+c
+print(k)
